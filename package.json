@@ -1,0 +1,22 @@
+{
+  "name": "rabocorp-nerd",
+  "displayName": "Nerd",
+  "description": "A green-ish shaded theme based on Nord",
+  "version": "0.0.1",
+  "repository": {"url": "https://github.com/CMiguelRB/nerd-color-theme"},
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nerd",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nerd-color-theme.json"
+      }
+    ]
+  }
+}
