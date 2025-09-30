@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "rabocorp-nerd" extension will be documented in this file.
+All notable changes to the "void-dev.rabocorp-nerd" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.4]
 
-## [Unreleased]
+- Bugfixing
+
+## [0.0.1]
 
 - Initial release

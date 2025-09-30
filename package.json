@@ -2,7 +2,7 @@
   "name": "rabocorp-nerd",
   "displayName": "Nerd",
   "description": "A green-ish shaded theme based on Nord",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "repository": {"url": "https://github.com/CMiguelRB/nerd-color-theme"},
   "publisher": "void-dev",
   "icon": "./assets/icon.png",
